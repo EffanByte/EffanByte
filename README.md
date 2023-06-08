@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EffanByte
 - 👀 I’m interested in Unreal Engine 5
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me Discord EffanByte#6557
 
