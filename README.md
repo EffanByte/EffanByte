@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EffanByte
-- 👀 I’m interested in Unreal Engine 5
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 2D indie game development on Godot.
+- 👀 I’m interested in Graphics Programming
+- 💞️ I’m looking to collaborate on OpenGL and Game Development Projects on Unity.
 - 📫 How to reach me Discord EffanByte#6557
 
 <!---
