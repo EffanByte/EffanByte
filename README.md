@@ -9,14 +9,10 @@
   alt="Effan Shakeel"
 />
 
-<br/>
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1800&pause=900&color=66D9EF&center=true&vCenter=true&width=950&height=55&lines=SOFTWARE+ENGINEER;AI+%2F+ML+ENGINEERING;GAMEPLAY+PROGRAMMER;BACKEND+ENGINEERING;REAL-TIME+SYSTEMS;DEVELOPER+TOOLS"
   alt="Roles"
 />
-
-<br/><br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=EffanByte&label=PROFILE+VIEWS&color=ff006e&style=for-the-badge"
